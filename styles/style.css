@@ -43,12 +43,11 @@ a {
 }
 
 header .menu {
-    position: static;
-    width: 100%;
     display: flex;
+    width: 100%;    
     align-items: center;
     justify-content: space-between;
-    padding: 40px;
+    padding: 4rem;
 }
 
 header .menu li {
@@ -60,13 +59,15 @@ header .menu a {
     color: var(--cor4);
     padding: 8px 12px;
     border-radius: 3px;
+    transition: .5s;
 }
 
 header .menu a:hover {
     color: var(--cor5);
     background-color: var(--cor4);
     padding: 8px 12px;
-    border-radius: 10px;
+    border-radius: 13px;
+    letter-spacing: 1px;
 }
 
 /* MAIN */
@@ -99,13 +100,14 @@ main {
     display: inline-block;
     border: 1px solid var(--cor3);
     border-radius: 20px;
-    transition: 200ms;
+    transition: .5s;
 }
 
 .principal .link:hover {
     background-color: var(--cor3);
     color: var(--cor4);
     font-weight: bolder;    
+    letter-spacing: 3px;
 }
 
 /* SOBRE */
@@ -185,20 +187,22 @@ main form input {
 }
 
 .link-login {
+    display: inline-block;
     color: var(--cor5);
     font-weight: bolder;
     margin-top: 50px;
-    padding: 10px 50px;
-    display: inline-block;
+    padding: 10px 50px;    
     border: 1px solid var(--cor3);
     border-radius: 20px;
-    transition: 200ms;
+    cursor: pointer;
+    transition: .3s;
 }
 
 .link-login:hover {
     background-color: var(--cor3);
     color: var(--cor4);
-    font-weight: bolder;    
+    font-weight: bolder;
+    letter-spacing: 2px;
 }
 
 .login-other {
