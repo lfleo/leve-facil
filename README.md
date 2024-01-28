@@ -7,5 +7,3 @@ Algumas coisas foram pensadas para fazer o site. As cores que remetem a bandeira
 
 # Site
 https://lfleo.github.io/leve-facil/
-ou
-https://leve-facil.lfleo.repl.co/
