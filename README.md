@@ -10,4 +10,6 @@ Algumas ideais foram pensadas para fazer o site. As cores que remetem a bandeira
 
  https://lfleo.github.io/leve-facil
 
-![leve fácil gif](/images/site-images.gif)
+## Screenshots
+
+![leve fácil screenshots](/images/site-images.gif)
