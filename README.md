@@ -9,3 +9,5 @@ Algumas ideais foram pensadas para fazer o site. As cores que remetem a bandeira
 ![Static Badge](https://img.shields.io/badge/HTML-orange) ![Static Badge](https://img.shields.io/badge/CSS-blue)
 
  https://lfleo.github.io/leve-facil
+
+![leve fácil gif](/images/site-images.gif)
